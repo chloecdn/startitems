@@ -1,0 +1,5 @@
+name: StartItems
+version: '${project.version}'
+main: de.chloedev.startitems.Main
+api-version: 1.19
+authors: [ChloeCDN]
